@@ -1,7 +1,7 @@
 ## merlin合成相关代码的c++版本
 包含：
-- 前端工具【参考https://github.com/Jackiexiao/MTTS】
-- DNN合成【参考https://github.com/CSTR-Edinburgh/merlin】
+- 前端工具：参考https://github.com/Jackiexiao/MTTS
+- DNN合成：参考https://github.com/CSTR-Edinburgh/merlin
 
 duration model和acoustic model均使用6层的全连接网络，训练好的参数在`tts_data`中。
 
