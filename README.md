@@ -16,3 +16,6 @@ duration model和acoustic model均使用6层的全连接网络，训练好的参
 - Input: 汉字串（不包括标点符号等其他非汉字字符）
 - Output：3个音频特征文件，分别为：test/1.mgc、test/1.lf0、test/1.bap
 - 再利用Vocoder：音频特征生成wav，`python ~/merlin/src/gen_test.py test_synth.conf`
+
+### Reference
+https://blog.csdn.net/ling913/article/details/86513426
