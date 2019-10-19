@@ -3,7 +3,7 @@
 - 前端工具：参考https://github.com/Jackiexiao/MTTS
 - DNN合成：参考https://github.com/CSTR-Edinburgh/merlin
 
-duration model和acoustic model均使用6层的全连接网络，训练好的参数在`tts_data`中。
+duration model和acoustic model均使用6层的全连接网络，训练好的参数在[`tts_data`](https://pan.baidu.com/s/1gZoucMYIIXpd0E4H6pgTKA&shfl=sharepset)中(密码:bdl1)。
 
 ### Requirement
 - cmake
